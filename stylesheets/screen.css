@@ -21,6 +21,8 @@ p.clean { margin: 0; padding: 0 }
 
 #content { width: 550px; float: left; clear: left; }
 
+.container li { margin: 10px 0 }
+
 ul.breadcrumb { margin: 1em 0 10px 0; padding: 0; color: #666; font-size: 90% }
 ul.breadcrumb li { display: inline; list-style: none }
 ul.breadcrumb li:before { content: "\0020 \0020 \0020 \00BB \0020"; color: #333; }
