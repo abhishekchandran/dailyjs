@@ -11,3 +11,5 @@ RewriteRule ^(.*)$ http://dailyjs.com/$1 [R=301,L]
 RewriteCond %{REQUEST_URI} ^/20110/11/25/framework-part-40/$ [NC]
 RewriteRule ^(.*)$ http://dailyjs.com/2010/11/25/framework-part-40/ [R=301,L]
 
+RewriteCond %{REQUEST_URI} ^/contact.html$ [NC]
+RewriteRule ^(.*)$ http://contact.dailyjs.com [R=301,L]
