@@ -18,7 +18,10 @@ url: atom.xml
    <link href="http://dailyjs.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://dailyjs.com{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <content type="html">
+     &lt;div id=&quot;carbonads-container&quot;&gt;&lt;div class=&quot;carbonad&quot;&gt;&lt;div id=&quot;azcarbon&quot;&gt;&lt;/div&gt;&lt;script type=&quot;text/javascript&quot;&gt;var z = document.createElement(&quot;script&quot;); z.type = &quot;text/javascript&quot;; z.async = true; z.src = &quot;http://engine.carbonads.com/z/12104/azcarbon_2_1_0_HORIZ&quot;; var s = document.getElementsByTagName(&quot;script&quot;)[0]; s.parentNode.insertBefore(z, s);&lt;/script&gt;&lt;/div&gt;&lt;/div&gt;&lt;br/&gt;
+     {{ post.content | xml_escape }}
+   </content>
  </entry>
  {% endfor %}
 </feed>
