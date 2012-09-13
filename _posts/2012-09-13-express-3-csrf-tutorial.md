@@ -8,6 +8,8 @@ categories:
 - bootstrap
 ---
 
+![The contact form](/images/posts/sayhello.png)
+
 This tutorial is a hands on, practical introduction to writing Express 3 applications complete with CSRF protection.  As a bonus, it should be fairly easy to install on Heroku.
 
 ###Prerequisites
