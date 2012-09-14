@@ -91,7 +91,7 @@ var abs = function(x) { return Math.abs(x); };
 var map = function(a, f) { return a.map(f); };
 var numbers = [-1, 2, 0, -2, 3, 4, -6]
 
-var negate_all = function(array) { return map(array, negate.c(abs)); };
+var negate_all = function(array) { return map(array, function(x) { return negate(abs(x)) };
 negate_all(numbers); // [-1, -2, 0, -2, -3, -4, -6]
 
 // That solves it; but we can do better:
