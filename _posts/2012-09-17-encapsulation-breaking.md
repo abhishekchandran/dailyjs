@@ -51,7 +51,7 @@ var person = new Person("Bob", "Someguy");
 console.log(person._first); // logs "Bob"
 {% endhighlight %}
 
-This appears all fine and well, but now that we've coupled our code to the Person implementation. Any change to the internals -- the category of change encapsulation should protect us against -- could break calling code.
+This appears all fine and well, but now we've coupled our code to the `Person` implementation. Any change to the internals -- the category of change encapsulation should protect us against -- could break calling code.
 
 {% highlight javascript %} 
 var Person = function(first, last){
