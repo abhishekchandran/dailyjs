@@ -40,7 +40,7 @@ Person.prototype = {
 };
 {% endhighlight %}
 
-This convention is commonplace, similar to naming constants in uppercase. The downside is that private properties and functions can still be accessed, thus breaking encapsulation because of a careless developer.
+This convention is commonplace, similar to naming constants in uppercase. The downside is that private properties and functions can still be accessed, thus breaking encapsulation because of careless coding.
 
 ###Encapsulation Breaking
 
