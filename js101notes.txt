@@ -1,0 +1,3 @@
+* Explain the term 'method'
+* Explain different JavaScript implementations
+
