@@ -16,7 +16,7 @@ You can send in your Node projects for review through our <a href="/contact.html
 
 ###mongo-lite
 
-[mongo-lite](http://alexeypetrushin.github.com/mongo-lite/docs/index.html) (GitHub: [alexeypetrushin / mongo-lite](https://github.com/alexeypetrushin/mongo-lite), License: _MIT_, npm: [mongo-lite](https://npmjs.org/package/mongo-lite)) by Alexey Petrushin aims to simplify MongoDB by removing the need for most callbacks, reasonable defaults like safe updates, and optional compact IDs.
+[mongo-lite](http://alexeypetrushin.github.com/mongo-lite/docs/index.html) (GitHub: [alexeypetrushin / mongo-lite](https://github.com/alexeypetrushin/mongo-lite), License: _MIT_, npm: [mongo-lite](https://npmjs.org/package/mongo-lite)) by Alexey Petrushin aims to simplify MongoDB by removing the need for most callbacks, adding reasonable defaults like safe updates, and offering optional compact IDs.
 
 The chainable API looks more like MongoDB's command-line interface:
 
@@ -27,7 +27,7 @@ db.posts.insert({ title: 'first' }, function(err, post) {
 });
 {% endhighlight %}
 
-There's also a Fiber-based API.
+There's also a Fiber-based API, so it can be used in a synchronous fashion.
 
 ###smog
 
