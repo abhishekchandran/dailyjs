@@ -251,7 +251,7 @@ LinkedHashMap.prototype.put = function(key, value) {
   var entry = new this._Entry(key);
 
   if (!this.containsKey(key)) {
-    if (HashMap.prototype.size.call(this) === 0) {
+    if (this.size() === 0) {
       this._head = entry;
       this._tail = entry;
     } else {
