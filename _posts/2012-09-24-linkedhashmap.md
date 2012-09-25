@@ -228,7 +228,7 @@ var LinkedHashMap = function() {
   // "inner" Entry class
   this._Entry = function(value) {
     this.prev = null;
-    this.head = null;
+    this.next = null;
     this.value = value;
   };
 
@@ -261,7 +261,30 @@ LinkedHashMap.prototype.put = function(key, value) {
     }
   }
 
-  HashMap.prototype.put.apply(this, arguments);
+  /*
+   * EDIT: Added optimization suggested
+   * by Chad Walker (see article comments).
+   */
+  // overwrite the value with an optimized Object wrapper
+  value = {value:value, entry:entry};
+
+  HashMap.prototype.put.call(this, key, value);
+};
+
+/**
+ * Returns the value associated with the key.
+ * 
+ * @override HashMap.get()
+ */
+LinkedHashMap.prototype.get = function(key){
+  var value = HashMap.prototype.get.call(this, key);
+  
+  /*
+   * EDIT: Added optimization suggested 
+   * by Chad Walker (see article comments).
+   */  
+  // we must unwrap the value
+  return value != null ? value.value : null;
 };
 
 /**
@@ -271,27 +294,30 @@ LinkedHashMap.prototype.put = function(key, value) {
  * @override Hashmap.remove()
  */
 LinkedHashMap.prototype.remove = function(key) {
-  if (this.containsKey(key)) {
-    // iterate over list keys and remove the entry
-    for (var cur = this._head; cur != null; cur = cur.next) {
-      if (key === cur.value) {
-        if (cur === this._head) {
-          this._head = cur.next;
-          this._head.prev = null;
-        } else if (cur === this._tail) {
-          this._tail = cur.prev;
-          this._tail.next = null;
-        } else {
-          cur.prev.next = cur.next;
-          cur.next.prev = cur.prev;
-        }
 
-        break;
-      }
+  /*
+   * EDIT: Added optimization suggested 
+   * by Chad Walker (see article comments).
+   */
+  var value = HashMap.prototype.remove.apply(this, arguments);
+
+  if (value != null) {
+  
+    var entry = value.entry;
+  
+    if (entry === this._head) {
+      this._head = entry.next;
+      this._head.prev = null;
+    } else if (entry === this._tail) {
+      this._tail = entry.prev;
+      this._tail.next = null;
+    } else {
+      entry.prev.next = entry.next;
+      entry.next.prev = entry.prev;
     }
   }
 
-  return HashMap.prototype.remove.apply(this, arguments);
+  return value;
 };
 
 /**
