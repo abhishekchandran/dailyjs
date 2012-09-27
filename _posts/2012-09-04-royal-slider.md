@@ -11,7 +11,7 @@ categories:
 ---
 
 <div class="sponsored-content">
-  <a class="label" href="/sponsored-content.html">Sponsored Content</a> This post is about a commercial product that we think will appeal to DailyJS readers.
+  <p><a class="label" href="/sponsored-content.html">Sponsored Content</a> This post is about a commercial product that we think will appeal to DailyJS readers.</p>
 </div>
 
 ![RoyalSlider](/images/posts/royalslider.png)
