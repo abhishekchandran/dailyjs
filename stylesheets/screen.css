@@ -506,3 +506,7 @@ a.btn { text-decoration: none; font-weight: bold; }
 .sponsored-content { background-color: #f0f4cf; padding: 0; margin: 10px 0; border-radius: 5px; font-size: 90%; width: 530px; padding: 0 1px }
 .sponsored-content p { padding: 5px 10px }
 .sponsored-content a.label { color: #fff; text-decoration: none; text-shadow: 1px 1px #000 }
+
+.image { border: 1px solid #ddd; padding: 4px; background-color: #f0f0f0 }
+.image img { border: none; }
+.image small { display: block; font-style: italic }
