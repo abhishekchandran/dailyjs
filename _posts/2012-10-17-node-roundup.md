@@ -5,6 +5,8 @@ author: "Alex Young"
 categories: 
 - node
 - modules
+- csv
+- functional
 ---
 
 <div class="intro">
