@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node Roundup: 0.8.14 and 0.9.3, Orange Mocha Frappuccino, WebSocketIPC"
+title: "Node Roundup: 0.8.14 and 0.9.3, Orange Mocha Frappuccino, Crawlme, WebSocketIPC"
 author: "Alex Young"
 categories: 
 - node
@@ -8,6 +8,7 @@ categories:
 - websockets
 - testing
 - mocha
+- crawling
 ---
 
 <div class="intro">
