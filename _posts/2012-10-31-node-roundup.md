@@ -44,7 +44,7 @@ omf('https://github.com', function(client) {
 });
 {% endhighlight %}
 
-This is a little bit more like how Cappuccino worked, which was TJ's pre-Mocha test framework.
+This is a little bit more like how Expresso worked, which was TJ's pre-Mocha test framework.
 
 ###Crawlme
 
