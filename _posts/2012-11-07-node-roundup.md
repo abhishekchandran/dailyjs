@@ -20,11 +20,9 @@ You can send in your Node projects for review through our <a href="/contact.html
 
 [Fastworks.js](https://github.com/RobeeeJay/Fastworks.js) (License: _GPL3_, npm: [fastworks](https://npmjs.org/package/fastworks)) by Robee Shepherd is an alternative to [Connect](http://www.senchalabs.org/connect/).  It includes "stacks" for organising middleware, and middleware for routing, static files, compression, cookies, query strings, bodies in various formats (including JSON), and a lot more.  It can also work with Connect modules.
 
-The primary motivation for developing Fastworks.js was speed:
+> StaticFile serves things like images, style sheets and javascript files, using the pretty nifty Lactate node module. According to the author's benchmarks, it can handle more than twice the requests per second that Connect's Send module can.
 
-> According to the author's benchmarks, it can handle more than twice the requests per second that Connect's Send module can.
-
-That sounds promising, but the author hasn't included benchmarks alongside his project.  It also doesn't include tests.  Hopefully the author will include tests and benchmarks to get this project off the ground.
+That Lactate module sounds promising.  On the subject of performance, one motivation for developing Fastworks.js was speed, but as of yet it doesn't include benchmarks or tests.  Hopefully the author will include these at a later date so we can see how it shapes up against Connect.
 
 ###Probability.js
 
