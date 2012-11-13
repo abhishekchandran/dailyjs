@@ -6,6 +6,7 @@ categories:
 - jquery
 - jquery-ui
 - plugins
+- truncation
 - themes
 ---
 
