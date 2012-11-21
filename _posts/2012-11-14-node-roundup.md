@@ -4,6 +4,9 @@ title: "Node Roundup: Knockout, bignumber.js, r...e, Mongoose-Filter-Denormalize
 author: "Alex Young"
 categories: 
 - node
+- number
+- mongo
+- mongoose
 ---
 
 <div class="intro">
