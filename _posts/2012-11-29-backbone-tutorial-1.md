@@ -231,7 +231,7 @@ suite('App', function() {
 
 All it does is checks `window.bTask` has been defined -- it proves RequireJS has loaded the app.
 
-Restart the web server (from step 2), and visit `http://localhost:8080/test`.  Mocha should display that a single test has passed.
+Restart the web server (from step 2), and visit `http://localhost:8080/test/` (the last slash is important).  Mocha should display that a single test has passed.
 
 ###Step 5: Making Builds
 
