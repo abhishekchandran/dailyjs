@@ -4,7 +4,9 @@ title: "jQuery Roundup: jquery.snipe, Photobooth.js, jHERE"
 author: Alex Young
 categories:
 - jquery
-- 
+- images
+- plugins
+- maps
 ---
 
 <div class="intro">
