@@ -9,6 +9,11 @@ categories:
 - backgoog
 ---
 
+<ul class="parts">
+  <li><a href="http://dailyjs.com/2012/11/29/backbone-tutorial-1/">Part 1: Build Environment</a></li>
+  <li><a href="http://dailyjs.com/2012/12/06/backbone-tutorial-2/">Part 2: Google's APIs and RequireJS</a></li>
+</ul>
+
 This new Backbone.js tutorial series will walk you through building a single page web application that has a customised [Backbone.sync](http://backbonejs.org/#Sync) implementation.  I started building the application that these tutorials are based on back in August, and it's been running smoothly for a few months now so I thought it was safe enough to unleash it.
 
 <div class="image">
@@ -283,3 +288,4 @@ In this tutorial you've created a Grunt and RequireJS build environment for Back
 This is basically how I build and manage all of my Backbone.js single page web applications.  Although we haven't written much code yet, as you'll see over the coming weeks this approach works well for using Backbone.js and RequireJS together.
 
 The code for this project can be found here: [dailyjs-backbone-tutorial (2a8517)](https://github.com/alexyoung/dailyjs-backbone-tutorial/tree/2a8517e011a8e1041c7f86f8311336ffba7e85e8).
+
