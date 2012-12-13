@@ -12,6 +12,7 @@ categories:
 <ul class="parts">
   <li><a href="http://dailyjs.com/2012/11/29/backbone-tutorial-1/">Part 1: Build Environment</a></li>
   <li><a href="http://dailyjs.com/2012/12/06/backbone-tutorial-2/">Part 2: Google's APIs and RequireJS</a></li>
+  <li><a href="http://dailyjs.com/2012/12/13/backbone-tutorial-3/">Part 3: Authenticating with OAuth2</a></li>
 </ul>
 
 In <a href="http://dailyjs.com/2012/11/29/backbone-tutorial-1/">Part 1: Build Environment</a>, I explained how to set up a simple Node server to host your Backbone.js app and test suite.  Something that confused people was the way I used relative paths, which meant the tests could fail if you didn't visit `/test/` (`/test` won't work).  There was a reason for this: I developed the original version to run on Dropbox, so I wanted to use relative paths.  It's probably safer to use absolute paths, so I should have made this clearer.
