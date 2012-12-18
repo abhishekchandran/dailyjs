@@ -15,7 +15,7 @@ Note: You can send your plugins and articles in for review through our <a href="
 
 ###jQuery 1.9 Beta 1
 
-[jQuery 1.9 Beta 1](http://blog.jquery.com/2012/12/17/jquery-1-9-beta-1-released/) has been released, and this version removes previously deprecated features so you'll want to pay attention.  Fortunately, Dave Methvin has been working on [jquery / jquery-migrate](https://github.com/jquery/jquery-migrate), which is a plugin for figuring out which deprecated features are being used.  The development version shows console warning messages, and these are stored in `jQuery.migrateWarnings` for browsers that don't support `console`.  There's a full list of warnings in [jQuery Migrate Plugin - Warning Messages](https://github.com/jquery/jquery-migrate/blob/master/warnings.md).
+[jQuery 1.9 Beta 1](http://blog.jquery.com/2012/12/17/jquery-1-9-beta-1-released/) has been released, and this version removes previously deprecated features so you'll want to pay attention.  Fortunately, Dave Methvin has been working on [jquery / jquery-migrate](https://github.com/jquery/jquery-migrate), which is a plugin for figuring out which deprecated features are being used in your projects.  The development version shows console warning messages, and these are stored in `jQuery.migrateWarnings` for browsers that don't support `console`.  There's a full list of the warnings in [jQuery Migrate Plugin - Warning Messages](https://github.com/jquery/jquery-migrate/blob/master/warnings.md).
 
 The focus of 1.9 has been API cleanup, and there's also a [jQuery 1.9 Upgrade Guide](http://jquery.com/upgrade-guide/1.9/), where these API changes have been documented.
 
