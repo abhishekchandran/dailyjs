@@ -71,7 +71,7 @@ ul.related-posts span.tags a { text-decoration: none; background-color: #f8f8ff;
 #comments { margin-top: 1em; float: left; width: 100% }
 
 table.list td { border: 1px solid #999; padding: 5px }
-table.amy { width: 100% }
+table.amy { width: 100%; background-color: #f8f8ff }
 table.amy th { border-bottom: 1px solid #999 }
 table.amy td { padding: 5px }
 table.large td, table.large th { font-size: 80% }

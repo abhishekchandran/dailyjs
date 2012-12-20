@@ -13,6 +13,7 @@ categories:
   <li><a href="http://dailyjs.com/2012/11/29/backbone-tutorial-1/">Part 1: Build Environment</a></li>
   <li><a href="http://dailyjs.com/2012/12/06/backbone-tutorial-2/">Part 2: Google's APIs and RequireJS</a></li>
   <li><a href="http://dailyjs.com/2012/12/13/backbone-tutorial-3/">Part 3: Authenticating with OAuth2</a></li>
+  <li><a href="http://dailyjs.com/2012/12/20/backbone-tutorial-4/">Part 4: Backbone.sync</a></li>
 </ul>
 
 This new Backbone.js tutorial series will walk you through building a single page web application that has a customised [Backbone.sync](http://backbonejs.org/#Sync) implementation.  I started building the application that these tutorials are based on back in August, and it's been running smoothly for a few months now so I thought it was safe enough to unleash it.
