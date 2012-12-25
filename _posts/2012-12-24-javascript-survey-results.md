@@ -9,7 +9,7 @@ categories:
 
 The JavaScript Developer Survey has now closed.  As always the results are available to the community for further analysis:
 
-* [Summary](https://docs.google.com/spreadsheet/viewform?formkey=dFNDeGZEUTZUZ1ctY0Q2WFZnOVlBV3c6MA)
+* [Summary](http://dailyjs.com/files/2012-survey-summary.pdf)
 * [Raw spreadsheet data](https://docs.google.com/spreadsheet/ccc?key=0AooyU9-5EwIVdFNDeGZEUTZUZ1ctY0Q2WFZnOVlBV3c)
 
 <div class="image">
