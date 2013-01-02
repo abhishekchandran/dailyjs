@@ -186,7 +186,7 @@ If you refresh `http://localhost:8080` in your browser and open the JavaScript c
 
 Everything you've learned in the previous three steps can be reused to create a unit testing suite.  [Mocha](http://visionmedia.github.com/mocha/) has already been installed by npm, so let's create a suitable test harness.
 
-Create a new directory called `test/` that contains a file called `index.html`:
+Create a new directory called `test/` (next to the 'app/' directory) that contains a file called `index.html`:
 
 {% highlight html %}
 <html>
@@ -238,6 +238,27 @@ suite('App', function() {
 {% endhighlight %}
 
 All it does is checks `window.bTask` has been defined -- it proves RequireJS has loaded the app.
+
+Finally we need to update where Connect looks for files to serve. Modify 'server.js' to look like this:
+
+{% highlight javascript %}
+var connect = require('connect')
+  , http = require('http')
+  , app
+  ;
+
+app = connect()
+  .use(connect.static('app'))
+  .use('/js/lib/', connect.static('node_modules/requirejs/'))
+  .use('/node_modules', connect.static('node_modules'))
+  .use('/test', connect.static('test/'))
+  .use('/test', connect.static('app'))
+  ;
+
+http.createServer(app).listen(8080, function() {
+  console.log('Running on http://localhost:8080');
+});
+{% endhighlight %}
 
 Restart the web server (from step 2), and visit `http://localhost:8080/test/` (the last slash is important).  Mocha should display that a single test has passed.
 
