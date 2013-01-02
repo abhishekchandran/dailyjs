@@ -313,3 +313,7 @@ This is basically how I build and manage all of my Backbone.js single page web a
 
 The code for this project can be found here: [dailyjs-backbone-tutorial (2a8517)](https://github.com/alexyoung/dailyjs-backbone-tutorial/tree/2a8517e011a8e1041c7f86f8311336ffba7e85e8).
 
+###Contributions
+
+* [Tobbe Lundberg](https://github.com/Tobbe/dailyjs/commit/5d6fe8b73114adaa09e20889cdcd3ae1875c5eb4)
+
