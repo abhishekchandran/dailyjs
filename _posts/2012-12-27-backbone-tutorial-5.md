@@ -223,6 +223,5 @@ Now if you run `node server` and visit `http://localhost:8080/`, you should see 
 
 The app is now communicating with Google, allowing users to sign in, and also displays the user's task lists.  It still doesn't look too exciting because we haven't yet applied any styles, but you should be able to adapt the code you've seen so far to work with other Google APIs and similar services.
 
-This tutorial was [commit 82fe08e on GitHub](https://github.com/alexyoung/dailyjs-backbone-tutorial/tree/82fe08ebff2cbc71350870dcd1a2c1b49f57f22d).
-
+This tutorial's code is available in [commit 82fe08e on GitHub](https://github.com/alexyoung/dailyjs-backbone-tutorial/tree/82fe08ebff2cbc71350870dcd1a2c1b49f57f22d).
 
