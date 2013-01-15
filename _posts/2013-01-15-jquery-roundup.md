@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jQuery Roundup: Touch-box, Elevate Zoom, textareaHelper"
+title: "jQuery Roundup: 1.9, Touch-box, Elevate Zoom, textareaHelper"
 author: Alex Young
 categories:
 - jquery
@@ -14,6 +14,12 @@ categories:
 <div class="intro">
 Note: You can send your plugins and articles in for review through our <a href="/contact.html">contact form</a> or <a href="http://twitter.com/dailyjs">@dailyjs</a>.
 </div>
+
+###jQuery 1.9
+
+[jQuery 1.9](http://blog.jquery.com/2013/01/15/jquery-1-9-final-jquery-2-0-beta-migrate-final-released/) has been released.  This version retains legacy browser support, but "slims down" the API somewhat.  jQuery 2.0 meanwhile will not support Internet Explorer 6-8, but it will have the same API.
+
+[jQuery Migrate](http://github.com/jquery/jquery-migrate/) can be used to migrate to 1.9 or 2.0.
 
 ###Touch-box
 
