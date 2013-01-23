@@ -5,6 +5,8 @@ author: "Alex Young"
 categories: 
 - node
 - modules
+- testing
+- templating
 ---
 
 <div class="intro">
