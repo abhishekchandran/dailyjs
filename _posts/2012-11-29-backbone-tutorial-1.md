@@ -18,6 +18,7 @@ categories:
   <li><a href="http://dailyjs.com/2013/01/03/backbone-tutorial-6/">Part 6: Creating Lists</a></li>
   <li><a href="http://dailyjs.com/2013/01/10/backbone-tutorial-7/">Part 7: Editing Lists</a></li>
   <li><a href="http://dailyjs.com/2013/01/17/backbone-tutorial-8/">Part 8: Deleting Lists</a></li>
+  <li><a href="http://dailyjs.com/2013/01/24/backbone-tutorial-9/">Part 9: Tasks</a></li>
 </ul>
 
 This new Backbone.js tutorial series will walk you through building a single page web application that has a customised [Backbone.sync](http://backbonejs.org/#Sync) implementation.  I started building the application that these tutorials are based on back in August, and it's been running smoothly for a few months now so I thought it was safe enough to unleash it.

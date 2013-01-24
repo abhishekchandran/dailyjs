@@ -18,6 +18,7 @@ categories:
   <li><a href="http://dailyjs.com/2013/01/03/backbone-tutorial-6/"><strong>Part 6: Creating Lists</strong></a></li>
   <li><a href="http://dailyjs.com/2013/01/10/backbone-tutorial-7/">Part 7: Editing Lists</a></li>
   <li><a href="http://dailyjs.com/2013/01/17/backbone-tutorial-8/">Part 8: Deleting Lists</a></li>
+  <li><a href="http://dailyjs.com/2013/01/24/backbone-tutorial-9/">Part 9: Tasks</a></li>
 </ul>
 
 ###Preparation
