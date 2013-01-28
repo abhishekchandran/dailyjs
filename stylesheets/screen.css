@@ -76,6 +76,9 @@ table.amy th { border-bottom: 1px solid #999 }
 table.amy td { padding: 5px }
 table.large td, table.large th { font-size: 80% }
 table.large td { text-align: left }
+table.horizontal { border-collapse: collapse }
+table.horizontal td { border-bottom: 1px solid #999; font-size: small }
+table.horizontal tbody th { text-align: right; padding-right: 10px }
 
 .bsa_it_ad { margin-bottom: 10px }
 li.rss { margin: 0 !important; padding: 0 !important }
