@@ -32,7 +32,7 @@ SliderShock can display text captions within slides, and comes bundled with lots
 
 ###jquery.printThis
 
-[jquery.printThis](https://github.com/jasonday/jquery.printThis) (License: _MIT/GPL_) by Jason Day is a fork of [permanenttourist / jquery.jqprint](https://github.com/permanenttourist/jquery.jqprint), and based on Ben Nadel's [Ask Ben: Print Part Of A Web Page With jQuery](http://www.bennadel.com/blog/1591-Ask-Ben-Print-Part-Of-A-Web-Page-With-jQuery.htm) post -- a combination of several things to solve the problem of printing a given element on a page.  Jason's changes can optionally include page styles, import additional stylesheets, and avoids using `document.write`.
+[jquery.printThis](https://github.com/jasonday/printThis) (License: _MIT/GPL_) by Jason Day is a fork of [permanenttourist / jquery.jqprint](https://github.com/permanenttourist/jquery.jqprint), and based on Ben Nadel's [Ask Ben: Print Part Of A Web Page With jQuery](http://www.bennadel.com/blog/1591-Ask-Ben-Print-Part-Of-A-Web-Page-With-jQuery.htm) post -- a combination of several things to solve the problem of printing a given element on a page.  Jason's changes can optionally include page styles, import additional stylesheets, and avoids using `document.write`.
 
 It's interesting to see how this works internally -- the plugin is concise but it takes a bit of `iframe` manipulation to get the desired results.
 
