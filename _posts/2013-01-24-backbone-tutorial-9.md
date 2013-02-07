@@ -21,6 +21,7 @@ categories:
   <li><a href="http://dailyjs.com/2013/01/17/backbone-tutorial-8/">Part 8: Deleting Lists</a></li>
   <li><a href="http://dailyjs.com/2013/01/24/backbone-tutorial-9/"><strong>Part 9: Tasks</strong></a></li>
   <li><a href="http://dailyjs.com/2013/01/31/backbone-tutorial-10/">Part 10: Oh No Not More Tasks</a></li>
+  <li><a href="http://dailyjs.com/2013/02/07/backbone-tutorial-11/">Part 11: Spies, Stubs, and Mocks</a></li>
 </ul>
 
 ###Preparation
