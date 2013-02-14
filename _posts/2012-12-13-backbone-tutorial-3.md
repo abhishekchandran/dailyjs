@@ -21,6 +21,7 @@ categories:
   <li><a href="http://dailyjs.com/2013/01/24/backbone-tutorial-9/">Part 9: Tasks</a></li>
   <li><a href="http://dailyjs.com/2013/01/31/backbone-tutorial-10/">Part 10: Oh No Not More Tasks</a></li>
   <li><a href="http://dailyjs.com/2013/02/07/backbone-tutorial-11/">Part 11: Spies, Stubs, and Mocks</a></li>
+  <li><a href="http://dailyjs.com/2013/02/14/backbone-tutorial-12/">Part 12: Testing with Mocks</a></li>
 </ul>
 
 In [Part 2: Google's APIs](http://dailyjs.com/2012/12/06/backbone-tutorial-2/), I laid the groundwork for talking to Google's JavaScript APIs.  Now you're in a position to start talking to the `todos` API, but first a user account is required.

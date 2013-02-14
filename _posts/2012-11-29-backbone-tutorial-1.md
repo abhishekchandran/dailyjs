@@ -21,6 +21,7 @@ categories:
   <li><a href="http://dailyjs.com/2013/01/24/backbone-tutorial-9/">Part 9: Tasks</a></li>
   <li><a href="http://dailyjs.com/2013/01/31/backbone-tutorial-10/">Part 10: Oh No Not More Tasks</a></li>
   <li><a href="http://dailyjs.com/2013/02/07/backbone-tutorial-11/">Part 11: Spies, Stubs, and Mocks</a></li>
+  <li><a href="http://dailyjs.com/2013/02/14/backbone-tutorial-12/">Part 12: Testing with Mocks</a></li>
 </ul>
 
 This new Backbone.js tutorial series will walk you through building a single page web application that has a customised [Backbone.sync](http://backbonejs.org/#Sync) implementation.  I started building the application that these tutorials are based on back in August, and it's been running smoothly for a few months now so I thought it was safe enough to unleash it.
