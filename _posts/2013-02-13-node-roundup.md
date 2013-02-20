@@ -5,6 +5,8 @@ author: "Alex Young"
 categories: 
 - node
 - modules
+- frameworks
+- web
 ---
 
 <div class="intro">
