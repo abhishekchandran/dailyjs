@@ -7,6 +7,7 @@ categories:
 - laptops
 - touchscreen
 - mobile
+- chrome-os
 ---
 
 <p></p>
