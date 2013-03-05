@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enyo, Miso, Dancer.sj"
+title: "Enyo, Miso, Dancer.js"
 author: Alex Young
 categories: 
 - libraries
