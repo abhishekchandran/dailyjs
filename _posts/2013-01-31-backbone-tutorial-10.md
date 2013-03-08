@@ -22,7 +22,7 @@ categories:
   <li><a href="http://dailyjs.com/2013/01/31/backbone-tutorial-10/"><strong>Part 10: Oh No Not More Tasks</strong></a></li>
   <li><a href="http://dailyjs.com/2013/02/07/backbone-tutorial-11/">Part 11: Spies, Stubs, and Mocks</a></li>
   <li><a href="http://dailyjs.com/2013/02/14/backbone-tutorial-12/">Part 12: Testing with Mocks</a></li>
-  <li><a href="http://dailyjs.com/2013/03/06/backbone-tutorial-13/">Part 13: Routes</a></li>
+  <li><a href="http://dailyjs.com/2013/03/07/backbone-tutorial-13/">Part 13: Routes</a></li>
 </ul>
 
 ###Preparation

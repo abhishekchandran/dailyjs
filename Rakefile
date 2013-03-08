@@ -31,7 +31,7 @@ namespace :remote do
     puts "Deploying..."
     Rake::Task['tags:generate'].invoke
     Rake::Task['remote:validate'].invoke
-    puts `rsync -avz "_site/" dailyjs.com:/var/www/dailyjs.com/`
+    puts `rsync --chmod=a+r -avz "_site/" dailyjs.com:/var/www/dailyjs.com/`
   end
 end
 
