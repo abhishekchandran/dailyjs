@@ -5,6 +5,10 @@ author: Alex Young
 categories:
 - jquery
 - plugins
+- usability
+- menus
+- toolbars
+- pagination
 ---
 
 <div class="intro">
