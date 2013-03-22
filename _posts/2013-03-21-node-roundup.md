@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node Roundup: Express Group Handlers, Fox, iWebPP.io"
+title: "Node Roundup: 0.10.1, Express Group Handlers, Fox, iWebPP.io"
 author: "Alex Young"
 categories: 
 - node
@@ -14,6 +14,10 @@ categories:
 <div class="intro">
 You can send in your Node projects for review through our <a href="/contact.html">contact form</a>.
 </div>
+
+###Node 0.10.1
+
+[Node 0.10.1](http://blog.nodejs.org/2013/03/21/node-v0-10-1-stable/) has been released, hot on the heels of 0.10.0.  This version improves the performance of the non-streaming `crypto` APIs, fixes some `tls` and `net` module issues, and makes missing callbacks in _streams2_ show a warning rather than raising an exception.
 
 ###Express Group Handlers
 
