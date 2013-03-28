@@ -25,6 +25,7 @@ categories:
   <li><a href="http://dailyjs.com/2013/02/14/backbone-tutorial-12/">Part 12: Testing with Mocks</a></li>
   <li><a href="http://dailyjs.com/2013/03/07/backbone-tutorial-13/">Part 13: Routes</a></li>
   <li><a href="http://dailyjs.com/2013/03/14/backbone-tutorial-14/">Part 14: Customosing the UI</a></li>
+  <li><a href="http://dailyjs.com/2013/03/28/backbone-tutorial-15/">Part 15: Updates for 1.0, Clear Complete</a></li>
 </ul>
 
 ###Preparation
