@@ -5,6 +5,8 @@ author: Alex Young
 categories:
 - jquery
 - plugins
+- bootstrap
+- cdn
 ---
 
 <div class="intro">
