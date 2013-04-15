@@ -51,7 +51,7 @@ var Books = Backbone.PageableCollection.extend({
 
 The project comes with some serious test coverage, including a test suite geared up for Zepto which is a nice touch.
 
-The author is currently working on releasing a new version that adds Backbone 1.0 support.  It should be 0.2.1, so keep a lookout for that if you're already on Backbone 1.0.
+The author is currently working on releasing a new version that adds Backbone 1.0 support.  It should be 1.2.2, so keep a lookout for that if you're already on Backbone 1.0.
 
 ###Comparison of Marionette and Chaplin
 
