@@ -5,6 +5,8 @@ author: Alex Young
 categories:
 - jquery
 - plugins
+- css
+- slideshows
 ---
 
 <div class="intro">
