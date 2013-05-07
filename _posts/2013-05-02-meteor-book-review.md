@@ -13,7 +13,7 @@ categories:
   <small>Discover Meteor, by Sacha Greif and Tom Coleman</small>
 </div>
 
-Sacha Greif sent me a copy of [The Meteor Book](http://www.themeteorbook.com/), a new book all about Meteor that he's writing with Tom Coleman.  He was also kind enough to offer a 20% discount to DailyJS readers, which you can redeem at [discovermeteor.com/dailyjs](http://www.discovermeteor.com/dailyjs) (in theory, bookmark it and try later).
+Sacha Greif sent me a copy of [The Meteor Book](http://www.themeteorbook.com/), a new book all about Meteor that he's writing with Tom Coleman, and will be released on May 7th.  He was also kind enough to offer a 20% discount to DailyJS readers, which you can redeem at [discovermeteor.com/dailyjs](http://www.discovermeteor.com/dailyjs) (available when the book is released).
 
 The book itself is currently being distributed as a web application that allows the authors to collect early feedback.  Each chapter is displayed as a page, with chapter navigation along the left-hand-side of the page and Disqus comments.  There will also be downloadable formats like PDF, ePub, and Kindle.
 
