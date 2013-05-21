@@ -34,8 +34,8 @@ The `<markup>` tag can include a `type` attribute that is used to determine the 
 
 ###zelect
 
-[zelect](http://mtkopone.github.io/zelect/) (GitHub: [mtkopone / zelect](https://github.com/mtkopone/zelect), License: _WTFPL_) by Anton Rissanen is a `<select>` component.  It's unit tested, and has built-in support for asynchronous pagination.
+[zelect](http://mtkopone.github.io/zelect/) (GitHub: [mtkopone / zelect](https://github.com/mtkopone/zelect), License: _WTFPL_) by Mikko Koponen is a `<select>` component.  It's unit tested, and has built-in support for asynchronous pagination.
 
-Unlike Chosen, it doesn't come with any CSS, but that might be a good thing because it keeps the project simple.  Anton has provided an example with suitable CSS that you can use to get started.
+Unlike Chosen, it doesn't come with any CSS, but that might be a good thing because it keeps the project simple.  Mikko has provided an example with suitable CSS that you can use to get started.
 
 If Chosen seems too large or inflexible for your project, then zelect might be a better choice.
