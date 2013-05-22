@@ -21,7 +21,7 @@ You can send in your Node projects for review through our <a href="/contact.html
 
 ###JSON Editor Online
 
-![JSON Editor Online](images/posts/jsoneditoronline.png)
+![JSON Editor Online](/images/posts/jsoneditoronline.png)
 
 [JSON Editor Online](http://jsoneditoronline.org/) (GitHub: [josdejong / jsoneditor](https://github.com/josdejong/jsoneditor/), License: _Apache 2.0_, npm: [jsoneditor](https://npmjs.org/package/jsoneditor), bower: _jsoneditor_) by Jos de Jong is a web-based JSON editor.  It uses Node for building the project, but it's actually 100% web-based.  It uses the [Ace](http://ace.ajax.org/#nav=about) editor, and includes features for searching and sorting JSON.
 
