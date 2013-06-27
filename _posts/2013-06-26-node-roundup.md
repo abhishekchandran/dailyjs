@@ -5,6 +5,9 @@ author: "Alex Young"
 categories: 
 - node
 - modules
+- events
+- command-line
+- bower
 ---
 
 <div class="intro">
