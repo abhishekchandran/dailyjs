@@ -16,7 +16,7 @@ Note: You can send your plugins and articles in for review through our <a href="
 
 ###minimit-anima
 
-![/images/posts/minimit.png](minimit-anima)
+![minimit-anima](/images/posts/minimit.png)
 
 [minimit-anima](http://www.minimit.com/projects/code/minimit-anima-plugin) (GitHub: [minimit / minimit-anima](https://github.com/minimit/minimit-anima), License: _MIT_, jQuery: [minimit-anima](http://plugins.jquery.com/minimit-anima/)) by Riccardo Caroli is an animation plugin that uses hardware accelerated CSS3 animations with fallbacks for older browsers.  The API is queue-based like jQuery's standard animation API.  The following example specified an `easeOut` of 400ms:
 
