@@ -36,7 +36,7 @@ Tests are included, and it should be possible to use it as Express middleware fa
 
 ###connect-mongostore
 
-How do you decide which session middleware to use?  Use cookies during early development then quickly search npm for something that uses your database?  Me too!  But there are better options out there and it's worth taking a bit of time to research them.  Ilya Shaisultanov sent in connect-mongostore (GitHub: [diversario / connect-mongostore](https://github.com/diversario/connect-mongostore/), License: _MIT_) whichi is an attempt to write a cleaner session store that takes advantages of features like replica sets, and has test coverage.
+How do you decide which session middleware to use?  Use cookies during early development then quickly search npm for something that uses your database?  Me too!  But there are better options out there and it's worth taking a bit of time to research them.  Ilya Shaisultanov sent in connect-mongostore (GitHub: [diversario / connect-mongostore](https://github.com/diversario/connect-mongostore/), License: _MIT_) which is an attempt to write a cleaner session store that takes advantages of features like replica sets, and has test coverage.
 
 ###Chance
 
