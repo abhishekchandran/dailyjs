@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Echotube, Community Updates"
-AUthor: Alex Young
+author: Alex Young
 categories:
 - media
 - google
