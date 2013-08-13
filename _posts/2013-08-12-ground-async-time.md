@@ -6,7 +6,7 @@ categories:
 - node
 - modules
 - grunt
-- typekit
+- typescript
 - frameworks
 - async
 - es6
