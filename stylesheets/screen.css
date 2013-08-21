@@ -183,13 +183,29 @@ li.rss p { margin: 0 !important; padding: 0 0 1em 0 !important }
   clear: both;
 }
 
-.itemlist ul.subscribe {
+.itemlist ul.subscribe, ul.support {
   text-align: center;
 }
+
+ul.support {
+  padding-top: 0;
+  border: none;
+}
+
+ul.support .if {
+  padding: 10px 0;
+}
+
 .itemlist ul.subscribe li {
   border: none;
   padding: 10px 0;
 }
+
+.itemlist ul.support li.flattr {
+  border: none;
+  padding-top: 0;
+}
+
 .itemlist ul.subscribe li.if {
   padding-top: 0;
 }
@@ -216,6 +232,11 @@ li.rss p { margin: 0 !important; padding: 0 0 1em 0 !important }
   border-radius: 5px;
   margin: 0 auto;
   padding: 24px 22px 24px 24px;
+}
+
+.itemlist .support p {
+  margin-top: 10px;
+  clear: both;
 }
 
 /* Taken from Bootstrap */
