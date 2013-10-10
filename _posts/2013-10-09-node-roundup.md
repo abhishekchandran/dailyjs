@@ -7,6 +7,7 @@ categories:
 - modules
 - npm
 - events
+- gbnc
 ---
 
 Yesterday was the [Great British Node Conference](http://greatbritishnodeconf.co.uk/), which took place in London at the [Shoreditch Works Village Hall](http://greatbritishnodeconf.co.uk/).  Speakers included [Julian Gruber](https://twitter.com/juliangruber), [Darach Ennis](https://twitter.com/darachennis), [Anton Whalley](https://twitter.com/antonwhalley), and [Tim Ruffles](https://twitter.com/timruffles).
