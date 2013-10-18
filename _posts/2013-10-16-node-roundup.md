@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node Roundup: Browser tests"
+title: "Node Roundup: Browser Tests"
 author: "Alex Young"
 categories: 
 - node
