@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to ChocolateChip-UI"
-author: "Etan Berkowitz"
+author: "Robert Biggs"
 categories: 
 - browser
 - tutorials
@@ -77,6 +77,13 @@ You'll notice that when it loads in the browser, the title appears in a nav bar,
 [Source code, part 3](https://gist.github.com/alexyoung/b669a17486adda476d09#file-part3-html)
 
 To make this list able to navigate to other articles, we need to indicate where each list item should go. We do this using an HTML5 data attribute: `data-goto`. We give it the id of the article to which it will go. This will result in automatic navigation when the article that it points to exists.
+
+This example includes the `data-` attributes:
+
+[Source code, part 4](https://gist.github.com/alexyoung/b669a17486adda476d09#file-part4-html)
+
+
+Here's what the navigation list should look like so far:
 
 ![Navigation list](/images/posts/chui-1.png)
 

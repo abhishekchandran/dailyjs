@@ -6,6 +6,7 @@ categories:
 - v8
 - microsoft
 - google
+- embedding
 ---
 
 Most of us started out writing JavaScript for web pages.  Even if you're a server-side developer focused on Node, you probably wrote client-side JavaScript first.  We see JavaScript as a language closely integrated with the DOM, and as a relatively lightweight server-side language, but you can flip this around and think of it as en entirely embedded language: after all, it's embedded within web pages -- it's bridged to native data structures and functionalities that are required by the runtime.
