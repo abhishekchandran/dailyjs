@@ -50,7 +50,7 @@ task :default => [:e]
 desc "Local workflow"
 task :e do
   Rake::Task['tags:generate'].invoke
-  `jekyll --server 8080`
+  `jekyll --server 8080 --limit-posts 100`
 end
 
 namespace :tags do

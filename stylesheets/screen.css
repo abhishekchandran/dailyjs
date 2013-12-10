@@ -18,6 +18,7 @@ p.clean { margin: 0; padding: 0 }
 #sidebar > li p { margin: 0 0 10px 0; padding: 0 }
 #sidebar li.sponsor { font-size: 90%; margin-bottom: 1em }
 #sidebar li.sponsor p { margin: 0; padding: 0 }
+#sidebar .job h3 { }
 
 #content { width: 550px; float: left; clear: left; }
 
@@ -128,6 +129,39 @@ li.rss p { margin: 0 !important; padding: 0 0 1em 0 !important }
   margin: 0;
 }
 
+.itemlist h5 {
+  margin: 0;
+  padding: 0;
+}
+
+.jobs img {
+  margin: 10px 0;
+}
+
+.jobs .tag {
+  font-weight: normal;
+  padding: 2px;
+  font-size: smaller;
+  color: #fff;
+  border-radius: 2px;
+  text-shadow: 1px 1px 1px #000
+}
+
+.jobs .tag.node {
+  background-color: #8ECB39;
+}
+
+.jobs .tag.design {
+  background-color: #AE406A;
+}
+
+.jobs-footer {
+  padding: 5px;
+  border-top: 1px solid #e8e8e8;
+  font-size: 12px;
+  color: #777;
+}
+
 .itemlist h4 {
   clear: both;
 }
@@ -187,9 +221,13 @@ li.rss p { margin: 0 !important; padding: 0 0 1em 0 !important }
   text-align: center;
 }
 
-ul.support {
+ul.support, ul.jobs {
   padding-top: 0;
   border: none;
+}
+
+ul.jobs {
+  text-align: center;
 }
 
 ul.support .if {
@@ -206,8 +244,17 @@ ul.support .if {
   padding-top: 0;
 }
 
-.itemlist ul.subscribe li.if {
+.itemlist ul.subscribe li.if, ul.jobs .job {
   padding-top: 0;
+}
+
+ul.jobs .job {
+  padding-bottom: 10px;
+}
+
+ul.jobs .job .link h4, ul.jobs .job .link h5,
+ul.jobs .job .link:hover h4, ul.jobs .job .link:hover h5 {
+  color: #000;
 }
 
 .itemlist ul.subscribe .social-button {
