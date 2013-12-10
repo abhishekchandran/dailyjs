@@ -16,7 +16,7 @@ I've been working on a project that uses MongoDB, and one of the problems I have
 
 Mongovi (GitHub: [timkuijsten / node-mongovi](https://github.com/timkuijsten/node-mongovi), License: _MIT_, npm: [mongovi](https://npmjs.org/package/mongovi)) is a REPL for MongoDB with Vi keys.  It uses [readline-vim](https://npmjs.org/package/readline-vim) and [node-mongodb-native](http://mongodb.github.io/node-mongodb-native/), so it isn't a wrapper around the command-line `mongo` tool but instead a reimplementation in Node.
 
-Several high-level commands work: `show dbs` lists databases, `use db` switches to a different database, and the usual commands like `db.collection.find`, `update`, and `insert` work.  The author has included Mocha tests, and documentation can be found in the readme.
+Several high-level commands work: `show dbs` lists databases, `use db` switches to a different database, and the usual commands like `c.collectionName.find`, `update`, and `insert` work.  The author has included Mocha tests, and documentation can be found in the readme.
 
 ###hoquet
 
