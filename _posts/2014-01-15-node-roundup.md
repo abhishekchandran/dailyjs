@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node Roundup: Conductance, Easymongo, Schema-Inspector"
+title: "Node Roundup: TJ Fontaine Takes Over, Conductance, Easymongo, Schema-Inspector"
 author: Alex Young
 categories:
 - node
@@ -9,6 +9,20 @@ categories:
 - mongodb
 - schema
 ---
+
+###The Next Phase of Node.js
+
+In [The Next Phase of Node.js](http://blog.nodejs.org/2014/01/15/the-next-phase-of-node-js/index.html), Isaac Z. Schlueter has announced that TJ Fontaine is now the Node project lead:
+
+> Anyone who's been close to the core project knows that he's been effectively leading the project for a while now, so we're making it official. Effective immediately, TJ Fontaine is the Node.js project lead. I will remain a Node core committer, and expect to continue to contribute to the project in that role. My primary focus, however, will be npm.
+
+Isaac also said he's founding npm, Inc., to allow him to focus on npm and develop related products:
+
+>  I'll be sharing many more details soon about exactly how this is going to work, and what we'll be offering. For now, suffice it to say that everything currently free will remain free, and everything currently flaky will get less flaky. Pursuing new revenue is how we can keep providing the npm registry service in a long-term sustainable way, and it has to be done very carefully so that we don't damage what we've all built together.
+
+Recently, there was an initiative by Nodejitsu to drive support and funding for npm, [resulting in over $300,000](https://npm.nodejitsu.com/) being raised.  It'll be interesting to see how this all ties together over the next year.
+
+Congratulations and good luck to TJ Fontaine!
 
 ###Conductance
 
