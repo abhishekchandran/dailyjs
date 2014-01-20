@@ -20,7 +20,7 @@ It supports Leap Motion input, and uses three.js, sparks.js, and dancer.js for a
 
 ![Snowmen War](/images/posts/youaredead.png)
 
-[Snowmen War](http://www.impertinents.com/sw/) (License: _CC BY-NC 3.0_) by Tanguy Sauvin and his girlfriend is a WebGL game with some pretty extreme text.  When the game starts, you're warned that "THEY WILL KILL YOU", and if you're hit too many times the game over screen simply states "YOU'RE DEAD."  It's blunt, which is amusing next to the slightly surreal snowmen in outer space visuals.
+[Snowmen War](http://www.impertinents.com/sw/) (License: _CC BY-NC 3.0_) by Tanguy Sauvin and Claire Thibault is a WebGL game with some pretty extreme text.  When the game starts, you're warned that "THEY WILL KILL YOU", and if you're hit too many times the game over screen simply states "YOU'RE DEAD."  It's blunt, which is amusing next to the slightly surreal snowmen in outer space visuals.
 
 If you view the project's source you can see the game engine, which uses [Cannon.js](https://github.com/schteppe/cannon.js), and plenty of Mr.doob's libraries.
 
