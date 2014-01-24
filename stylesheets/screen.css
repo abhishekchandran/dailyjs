@@ -155,6 +155,10 @@ li.rss p { margin: 0 !important; padding: 0 0 1em 0 !important }
   background-color: #AE406A;
 }
 
+.jobs .tag.sql {
+  background-color: #9E306A;
+}
+
 .jobs-footer {
   padding: 5px;
   border-top: 1px solid #e8e8e8;
