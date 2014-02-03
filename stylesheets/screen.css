@@ -49,7 +49,7 @@ h2.post a { text-decoration: none }
 
 div.intro { color: #666; font-size: 90%; margin: 1em 0 0 0 }
 
-div.meta { color: #666; font-size: 90% }
+div.meta { color: #666; font-size: 90%; padding-bottom: 10px }
 div.meta span.tags { margin-left: 0 }
 div.meta span.comments a { text-decoration: none }
 
