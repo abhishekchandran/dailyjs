@@ -23,7 +23,7 @@ It combines an ODM system with a plugin system, and currently persists data to m
 
 ###termcoin
 
-termcoin (GitHub: [chjj / termcoin](https://github.com/chjj/termcoin), License: _MIT_, npm: [termcoin](https://npmjs.org/package/termcoin)) by Christopher Jeffrey is a terminal Bitcoin client with a curses interface.  It requires bitcoind to work, and looks really cool in the screenshots.
+termcoin (GitHub: [chjj / termcoin](https://github.com/chjj/termcoin), License: _MIT_, npm: [termcoin](https://npmjs.org/package/termcoin)) by Christopher Jeffrey is a terminal Bitcoin client with a command-line interface based on [blessed](https://github.com/chjj/blessed).  It requires bitcoind to work, and looks really cool in the screenshots.
 
 ###node-bitwise-xor
 
