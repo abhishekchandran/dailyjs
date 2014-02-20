@@ -1,4 +1,5 @@
 ---
+layout: post
 title: JavaScript Promises ... In Wicked Detail
 author: Matt Greer
 categories:
