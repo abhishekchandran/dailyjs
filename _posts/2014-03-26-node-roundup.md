@@ -13,7 +13,7 @@ categories:
 
 <div class="image">
   <img src="/images/posts/npmsearch-mar-2014.png" />
-  <small>Improved search results</small>
+  <small>Improved search results.</small>
 </div>
 
 [npm's search results are now ranked by popularity](http://blog.npmjs.org/post/80789086446/nicer-perusal-method):
