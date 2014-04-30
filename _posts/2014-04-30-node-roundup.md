@@ -57,6 +57,8 @@ The controllers also make heavy use of `yield`, so things like form validation a
 
 ###Isosurface
 
+![Isosurface](/images/posts/isosurface.png)
+
 [Isosurface](http://mikolalysenko.github.io/Isosurface/) (GitHub: [mikolalysenko / isosurface](https://github.com/mikolalysenko/isosurface), License: _MIT_, npm: [isosurface](https://www.npmjs.org/package/isosurface)) by Mikola Lysenko is a set of isosurface polygonizer algorithms.
 
 Here's an example:
