@@ -31,6 +31,8 @@ This uses the "Gibberish AES":https://github.com/mdp/gibberish-aes library.  It 
 
 A related commercial product is "1Password":http://agilebits.com/onepassword which includes a HTML/CSS/JavaScript viewer for encrypted passwords.  The 1Password application itself is for Windows, Mac OS, iOS or Android, but interestingly their database files include a HTML viewer that can decrypt saved passwords.
 
+*Update*: Note that Jason has since replaced this project with "secStore.js":https://github.com/jas-/secStore.js.
+
 h3. Ampersand
 
 "Ampersand":https://github.com/goldfidget/ampersand by Nicholas Johnson is a small jQuery plugin for using "Open Source Ampersands":http://opensourceampersands.com/.  This is a project to provide high-quality single-character fonts.
