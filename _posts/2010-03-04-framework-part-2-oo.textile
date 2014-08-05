@@ -85,7 +85,7 @@ p.hasOwnProperty('colour');
 
 h3. Prototypal vs. Classical
 
-There are multiple patterns for handling prototypal inheritance.  For this reason it's useful to abstract it, and offer extra features beyond what JavaScript has as standard.  Defining an API for classes keeps code simpler and makes it easer for people to navigate your code.
+There are multiple patterns for handling prototypal inheritance.  For this reason it's useful to abstract it, and offer extra features beyond what JavaScript has as standard.  Defining an API for classes keeps code simpler and makes it easier for people to navigate your code.
 
 The fact that JavaScript's object model splits up portions of a class can be visually noisy.  It might be attractive to wrap entire classes up in a definite start and end.  Since this is a _teaching framework_, wrapping up classes in discrete and readable chunks might be beneficial.
 
