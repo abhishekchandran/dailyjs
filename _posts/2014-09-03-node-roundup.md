@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Node Roundup: DataCollection.js, supererror, Readability"
-author: "alex young"
+author: "Alex Young"
 categories:
 - modules
 - node
