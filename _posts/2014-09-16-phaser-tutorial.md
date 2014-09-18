@@ -55,7 +55,7 @@ var main = {
 };
 
 // Initialize Phaser, and start our 'main' state 
-var game = new Phaser.Game(400, 300, Phaser.AUTO, 'gameDiv');
+var game = new Phaser.Game(400, 450, Phaser.AUTO, 'gameDiv');
 game.state.add('main', main);
 game.state.start('main');
 {% endhighlight %}
@@ -84,6 +84,9 @@ create: function() {
 
   // Enable the physics system for the paddle
   game.physics.arcade.enable(this.paddle);
+
+  // Make sure the paddle won't move when hit by the ball
+  this.paddle.body.immovable = true;
 },
 
 update: function() {
