@@ -2,6 +2,7 @@
 layout: post
 title: "Node Roundup: Node 0.11.14, svgexport, node-webkitgtk"
 author: "Alex Young"
+image: "/images/posts/libuvdinosaur.png"
 categories:
 - modules
 - libraries
