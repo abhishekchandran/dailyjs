@@ -2,6 +2,7 @@
 layout: post
 title: "Node Roundup: Nightmare, Prototypes, node-libpq and node-pg-native"
 author: "Alex Young"
+image: "/images/posts/nightmare.png"
 categories:
 - modules
 - libraries
@@ -12,6 +13,8 @@ categories:
 ---
 
 ###Nightmare
+
+![Nightmare](/images/posts/nightmare.png)
 
 By far the most brittle and confusing part of testing is full stack integration testing.  I've used lots of different approaches, whether they're based on PhantomJS or Selenium, but they always cause me trouble.
 
