@@ -2,7 +2,7 @@
 layout: post
 title: "Node Roundup: node-android, typed-morph, stdio"
 author: "Alex Young"
-image: "/images/posts/nightmare.png"
+image: "/images/posts/nodeandroid.png"
 categories:
 - modules
 - libraries
