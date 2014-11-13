@@ -17,7 +17,7 @@ categories:
 
 [Eskimo](http://eskimo.io/) (GitHub: [niftylettuce/eskimo](https://github.com/niftylettuce/eskimo), License: _MIT_, npm: [eskimo](https://www.npmjs.org/package/eskimo)) by niftylettuce is a framework for Node web applications.  It has a command-line tool that is used to manage projects, known as _igloos_.  You can add new models, views, and controllers, or create all three with `mvc`.
 
-Once you've installed Eskimo with npm, you can generate a new app with `eskimo create projectname`.  Projects use Express, the [electrolyte](https://www.npmjs.org/package/electrolyte) dependency injection module, and MongoDB.  You'll need to run `npm install` from the freshly created project to get the dependencies required for running the tests.
+Once you've installed Eskimo with npm, you can generate a new app with `eskimo create projectname`.  Projects use Express, the [electrolyte](https://www.npmjs.org/package/electrolyte) dependency injection module, Redis, and MongoDB.  You'll need to run `npm install` from the freshly created project to get the dependencies required for running the tests.
 
 The authors have put sensible commands in `package.json` for `npm start` and `npm test`, so it works like most Node web applications.  It also has a Vagrant file, so you should be able to test out deploying your applications without too much hassle.
 
