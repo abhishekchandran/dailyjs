@@ -2,7 +2,6 @@
 layout: post
 title: "Paperclip.js, bem-react"
 author: "Alex Young"
-image: "/images/posts/definejs.png"
 categories:
 - templates
 - reactive
