@@ -13,7 +13,7 @@ categories:
 >
 > When you're learning a new programming language, one of the trickiest parts is getting used to the rules for how to write different kinds of instructions to the computer. When you're first starting out, it's easy to forget when to include parentheses, or to mix up the order in which you need to include certain values. But as you practice, you'll start to get the hang of it.
 
-I remember when I was kid, learning programming for the first time, and I was worried about learning the "best" programming language.  I like the fact Nick suggests that you're likely to learn other programming languages and points out the similarities.
+I remember when I was a kid, learning programming for the first time, and I was worried about learning the "best" programming language.  I like the fact Nick suggests that you're likely to learn other programming languages and points out the similarities.
 
 The examples use HTML and JavaScript, so all you really need is a browser and editor.  The earliest examples use the console debugger, so I can imagine kids turning up at school, opening the developer tools in a browser and impressing their friends with their newfound hacker skills.
 
