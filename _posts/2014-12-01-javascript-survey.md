@@ -14,3 +14,5 @@ I asked for help with the questions [last year](http://dailyjs.com/2013/11/21/de
 Please fill out the survey and **share it with your fellow JavaScript programmers**!  I make sure the data is open so it's not just used for planning DailyJS content, you can use it as well.
 
 Here's the survey link again: [JavaScript Developer Survey for 2014](http://goo.gl/forms/Fl8xcmwPtM)
+
+*The survey is now closed.*
