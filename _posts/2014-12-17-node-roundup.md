@@ -44,7 +44,7 @@ Here's the use-case that Johannes described:
 
 ![MailDev](/images/posts/maildev.png)
 
-If you've ever felt like handling emails in web applications is messy, and you don't feel like your emails are as good as they could be, then you're not alone!  I always feel like emails are annoying to develop, so I thought [MailDev](http://djfarrelly.github.io/MailDev/) (GitHub: [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier), License: _MIT_, npm: [maildev](https://www.npmjs.com/package/maildev)) looked interesting.  This module helps you test your project's generated emails during development with a responsive web interface.  It has a Node API, and there's even a REST API so you could integrate it with other services.
+If you've ever felt like handling emails in web applications is messy, and you don't feel like your emails are as good as they could be, then you're not alone!  I always feel like emails are annoying to develop, so I thought [MailDev](http://djfarrelly.github.io/MailDev/) (GitHub: [djfarrelly/maildev](https://github.com/djfarrelly/maildev), License: _MIT_, npm: [maildev](https://www.npmjs.com/package/maildev)) looked interesting.  This module helps you test your project's generated emails during development with a responsive web interface.  It has a Node API, and there's even a REST API so you could integrate it with other services.
 
 Emails are displayed with WebSockets, so you don't have to keep refreshing, and it'll show HTML, text, and attachments.
 
