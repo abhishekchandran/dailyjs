@@ -2,7 +2,6 @@
 layout: post
 title: "Rantjs, Avatar, esformatter"
 author: Alex Young
-image: "/images/posts/d3reactchart-small.png"
 categories:
 - text
 - graphics
