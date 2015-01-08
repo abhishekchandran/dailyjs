@@ -2,7 +2,7 @@
 layout: post
 title: "Node Roundup: no-sequence, CodeOnMobile, app-notify"
 author: Alex Young
-image: "/images/posts/meteorqt.png"
+image: "/images/posts/codeonmobile.png"
 categories:
 - node
 - modules
