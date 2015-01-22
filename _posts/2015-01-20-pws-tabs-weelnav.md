@@ -20,7 +20,7 @@ The plugin source itself is fairly leightweight, and it comes with examples that
 
 ###wheelnav.js
 
-[wheelnav.js](http://wheelnavjs.softwaretailoring.net/index.html) by Gábor Berkesi is an SVG-based library that you can use for a centerpiece animated navigation component.  This might work well for a marketing website, which is the example Gábor uses, but I think it would be really cool on a child-friendly site with lots of bright colours site as well.
+[wheelnav.js](http://wheelnavjs.softwaretailoring.net/index.html) (GitHub: [softwaretailoring/wheelnav](https://github.com/softwaretailoring/wheelnav)) by Gábor Berkesi is an SVG-based library that you can use for a centerpiece animated navigation component.  This might work well for a marketing website, which is the example Gábor uses, but I think it would be really cool on a child-friendly site with lots of bright colours site as well.
 
 The licensing is mixed -- there are free versions but also [more advanced paid versions](http://bootstrapachka.softwaretailoring.net/wheelizate/tabs/index.html).
 
