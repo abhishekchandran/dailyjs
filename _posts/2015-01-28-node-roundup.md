@@ -8,6 +8,7 @@ categories:
 - modules
 - libraries
 - iojs
+- deployment
 ---
 
 ###Node 0.10.36, io.js 1.0.4
