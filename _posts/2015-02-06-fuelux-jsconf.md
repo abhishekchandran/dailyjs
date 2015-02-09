@@ -2,7 +2,6 @@
 layout: post
 title: "Fuel UX Tutorials, JS Unconf"
 author: Alex Young
-image: "/images/posts/xray.png"
 categories:
 - scraping
 - node
