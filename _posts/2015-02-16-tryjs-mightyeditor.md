@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TRY.js, MightyEditor"
-image: "/images/posts/mightyeditor.png"
+image: "/images/posts/mightyeditor_screenshot_dailyjs.png"
 author: Alex Young
 categories:
 - games
@@ -23,7 +23,7 @@ If you want to try programming the robot, there's a [Robot API](https://github.c
 
 ###MightyEditor
 
-![MightyEditor](/images/posts/mightyeditor.png)
+![MightyEditor](/images/posts/mightyeditor_screenshot_dailyjs.png)
 
 Guntis Smaukstelis sent in a powerful web-based game level editor for [Phaser games](http://phaser.io/) called [MightyEditor](http://mightyfingers.com/) (GitHub: [TheMightyFingers/mightyeditor](https://github.com/TheMightyFingers/mightyeditor), [License](https://github.com/TheMightyFingers/mightyeditor/blob/master/LICENSE), [Demo](http://mightyeditor.mightyfingers.com/)).  It supports asset management for organising textures, and there's a map editor so you can paint levels, with tools for scale and rotate. It also has a physics editor and code editing, so you can alter the behaviour of the game without exporting it first.
 
