@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Node Roundup: npm jQuery, io.js 1.3.0, proginoskes"
-image: "/images/posts/tests-result.png"
 author: Alex Young
 categories:
 - sponsored-content
