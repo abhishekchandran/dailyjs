@@ -6,9 +6,9 @@ categories:
 - node
 - modules
 - libraries
-- browser
-- parsers
-- lexers
+- error-handling
+- iojs
+- hardware
 ---
 
 ###io.js
