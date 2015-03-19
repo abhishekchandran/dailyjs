@@ -54,6 +54,6 @@ mws.run(ctx).then(function() {
 });
 {% endhighlight %}
 
-If you're using Node 0.10.x you'll need to run it with `--harmony-generators` or `--harmony`, but Node 0.12 and io.js should work without the flags.
+If you're using Node 0.11.x or 0.12.x you'll need to run `node` with `--harmony-generators` or `--harmony`, but io.js should work without the flags.
 
 I'd like to try this with Express, but it also seems like a useful module for non-web Node programs.
