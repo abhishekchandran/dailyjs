@@ -9,7 +9,7 @@ categories:
 - android
 ---
 
-![React Native]("/images/posts/react-native.png")
+![React Native](/images/posts/react-native.png)
 
 The developers at Facebook have been showing off [React Native](http://facebook.github.io/react-native/) for a few months, but it's finally been released on GitHub: [facebook/react-native](https://github.com/facebook/react-native).  I went to a Facebook tech talk about React Native earlier this month, and as someone who has experience developing iOS apps, I was extremely excited about it.
 
