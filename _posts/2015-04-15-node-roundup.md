@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Private npm Modules, Rust ffi, Ruff"
-image: "/images/posts/tests-result.png"
+image: "/images/posts/npm-private-modules.png"
 author: Alex Young
 categories:
-- sponsored-content
-- recruitment
-- apps
+- node
+- modules
+- npm
+- libraries
+- generators
+- es6
 ---
 
 ###Private npm Modules
