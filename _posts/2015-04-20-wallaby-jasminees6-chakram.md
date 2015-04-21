@@ -17,7 +17,7 @@ categories:
   <p><a class="label" href="/sponsored-content.html">Sponsored Content</a> This post is about a commercial product that we think will appeal to DailyJS readers.</p>
 </div>
 
-I recently wrote about [Wallaby.js](http://wallabyjs.com/), and the authors have just released a major update that adds support for ES6, RequireJS, Browserify, and webpack.  I'm a fan of Browserify so I was excited to see this -- you can get it at [hwallabyjs/wallabify](https://github.com/wallabyjs/wallabify).  The webpack postprocessor is available here: [jeffling/wallaby-webpack](https://github.com/jeffling/wallaby-webpack).
+I recently wrote about [Wallaby.js](http://wallabyjs.com/), and the authors have just released a major update that adds support for ES7, RequireJS, Browserify, and webpack.  I'm a fan of Browserify so I was excited to see this -- you can get it at [hwallabyjs/wallabify](https://github.com/wallabyjs/wallabify).  The webpack postprocessor is available here: [jeffling/wallaby-webpack](https://github.com/jeffling/wallaby-webpack).
 
 Other updates include the news that a [full-time developer has joined the project](http://dm.gl/2015/03/03/wallaby-first-developer-and-investors/), and a tutorial that introduces the idea of [live editing with testing](http://dm.gl/2015/03/05/JavaScript-live-editing-and-testing/).
 
